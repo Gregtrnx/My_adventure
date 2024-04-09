@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+header{
+    color: rgb(0, 0, 0);
+    padding: 4vh;
+}
+
+.ACC{
+    color: rgb(70, 70, 70);
+    font-size: x-large;
+    font-weight: 600;
+    margin-left: 24px;
+}
+
+.logo{
+    margin-right: 12px;
+    margin-left: 34px;
+}
+
+.nav{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.nav-link{
+    color: white;
+}
+
+.dropdown{
+    margin-right: 34px;
+}
