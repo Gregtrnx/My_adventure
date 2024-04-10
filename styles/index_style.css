@@ -5,6 +5,10 @@ body{
     font-style: normal;
 }
 
+h1{
+    margin-left: 50;
+}
+
 header{
     color: rgb(0, 0, 0);
     padding: 4vh;
@@ -14,23 +18,19 @@ header{
     color: rgb(70, 70, 70);
     font-size: x-large;
     font-weight: 600;
-    margin-left: 24px;
 }
 
 .logo{
     margin-right: 12px;
-    margin-left: 34px;
-}
-
-.nav{
-    margin-right: auto;
-    margin-left: auto;
 }
 
 .nav-link{
     color: white;
 }
 
-.dropdown{
-    margin-right: 34px;
+.titre{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30vh;
 }
